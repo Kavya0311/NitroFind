@@ -1,0 +1,5 @@
+{
+  "name": "NutriFind",
+  "description": "An app that generates recipes based on ingredients you have, using the Gemini API, health and fitness filters along with cooking assistant alongwith healthy swap suggestions and protien chart",
+  "requestFramePermissions": []
+}
